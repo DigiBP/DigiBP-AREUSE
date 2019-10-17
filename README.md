@@ -7,3 +7,7 @@ At AREUSE, our mission is to help people to get jobs. We foster a collaborative 
 
                     Our Vision
 AREUSE will be the attractive platform connecting people to related jobs.
+
+
+Current Situation
+![alt text](src/modelling/WhatsApp Image 2019-10-13 at 18.09.02.jpeg)
