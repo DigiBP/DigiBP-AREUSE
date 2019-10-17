@@ -1,14 +1,9 @@
-# DigiBP Camunda Template
+About AREUSE 
+Areuse is a small size Swiss company, which started with 3 co-founders, specialized in the human resources sector, with a goal to provide simplified and convenient job seeking process.
+Areuse aims to serve as a professional job portal where employers can offer jobs to prospective employees and job seekers can find corresponding jobs in their area of expertise with advanced technology using intelligent solutions.
 
-[![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
-[![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-Heroku-6762a6.svg?longCache=true)](https://heroku.com/deploy)
+                   Who are we?
+At AREUSE, our mission is to help people to get jobs. We foster a collaborative work place that strives to create the best experience for job seekers. 
 
-## Maintainer
-- [Digitalisation of Business Processes](https://github.com/digibp)
-
-## License
-
-Upload your stuff here
-
-
-- [Apache License, Version 2.0](https://github.com/DigiBP/digibp-archetype-camunda-boot/blob/master/LICENSE)
+                    Our Vision
+AREUSE will be the attractive platform connecting people to related jobs.
