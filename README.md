@@ -10,4 +10,4 @@ AREUSE will be the attractive platform connecting people to related jobs.
 
 
 Current Situation
-![alt text](src/modelling/WhatsApp Image 2019-10-13 at 18.09.02.jpeg)
+![alt text](https://github.com/DigiBP/DigiBP-AREUSE/blob/master/src/modelling/WhatsApp%20Image%202019-10-13%20at%2018.09.02.jpeg?raw=true)
