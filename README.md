@@ -1,3 +1,4 @@
+![alt text](https://img.shields.io/badge/Digitalization_of_Business_Process-10%-<GREEN>)
 # About AREUSE 
 **Areuse** is a Swiss startup, with3 co-founders, specialized in the human resources sector and information technology. 
 **Areuse** aims to provide unique, simplified and convenient job offering and seeking process. Currently, **Areuse** is providing professional candidates (Job Seekers) to Trust Square in Zurich (IT startups cluster in the area of Blockchain and AI). 
