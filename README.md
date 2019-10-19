@@ -2,12 +2,7 @@
 **Areuse** is a Swiss startup, with3 co-founders, specialized in the human resources sector and information technology. 
 **Areuse** aims to provide unique, simplified and convenient job offering and seeking process. Currently, **Areuse** is providing professional candidates (Job Seekers) to Trust Square in Zurich (IT startups cluster in the area of Blockchain and AI). 
 
-```mermaid
-graph LR
-A[Trust Square] -- send job offers --> B((Areuse))
-B -- select Candidates--> D[Job Seekers]
-D --apply--> A
-```
+![the Big Picture](https://github.com/DigiBP/DigiBP-AREUSE/blob/master/src/modelling/areuseGeneral.PNG)
 
 **Areuse** serves as a professional job portal where employers (Trust Square) offer jobs to prospective employees and **Areuse** selects appropriate candidates in the area of expertise which is required by the employer. 
 
