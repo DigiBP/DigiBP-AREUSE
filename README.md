@@ -9,7 +9,7 @@
 **Areuse** serves as a professional job portal where employers (Trust Square) offer jobs to prospective employees and **Areuse** selects appropriate candidates in the area of expertise which is required by the employer. 
 
  # Who are we?
-At **AREUSE**, our mission is to help people to get jobs. We foster a collaborative work place that strives to create the best experience for both candidates and employers. We help companies simplify the hiring process for entry-level and mid-level jobs and also offer both the employers and employees flexibility that more permanent work arrangements do not. **AREUSE** has a continuous reputation of matching candidates’ knowledge, skills, talents and competencies with specific job requirements within an IT Industry. We specialize in identifying talent in the labor market and making it available via Trust square to organizations that require skilled and talented people for various positions. Our agency conduct the preliminary screening of candidates evaluate them against the organization’s requirements and then refer those who have the best qualifications for the job.
+**AREUSE** foster a collaborative work place that strives to create the best experience for both candidates and employers. We help companies simplify the hiring process for entry-level and mid-level jobs and also offer both the employers and employees flexibility that more permanent work arrangements do not. **AREUSE** has a continuous reputation of matching candidates’ knowledge, skills, talents and competencies with specific job requirements within an IT Industry. We specialize in identifying talent in the labor market and making it available via Trust square to organizations that require skilled and talented people for various positions. Our agency conduct the preliminary screening of candidates evaluate them against the organization’s requirements and then refer those who have the best qualifications for the job.
 
 
 # Objective
@@ -17,6 +17,8 @@ One of the main objectives of **AREUSE** is aligning the best people with the av
 
 One of our hallmarks is the successful placement of suitable job candidates in the area of Information Technology. 
 
+# Our Mission
+To power the world of work and help the communities in which we live.
 
 # Our vision 
 **AREUSE** will be the attractive platform connecting people to related jobs.
