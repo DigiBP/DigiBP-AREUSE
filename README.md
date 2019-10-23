@@ -13,7 +13,7 @@ At **AREUSE**, our mission is to help people to get jobs. We foster a collaborat
 
 
 # Objective
-One of the main objectives of **AREUSE** is aligning the best people with the available job opportunities in a more sophisticated way, where the primary screening of candidates is done by using the latest technology, Artificial Intelligence. We sort the candidate through the database received from our chat box and the CV score of the candidate. 
+One of the main objectives of **AREUSE** is aligning the best people with the available job opportunities in a more convenient and effective way, where the primary screening of candidates is done by using the latest technology, Artificial Intelligence. We sort the candidate through the database received from our chat box and the CV score of the candidate. 
 
 One of our hallmarks is the successful placement of suitable job candidates in the area of Information Technology. 
 
