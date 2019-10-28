@@ -10,6 +10,9 @@
  # Who are we?
 We are trusted service providers offering two main types of services. One is directed at the job seeker and the other to an employer looking to hire new employees. **AREUSE** has a continuous reputation of matching candidates’ knowledge, proficiency, capability and qualification with specific job requirements in the field of Block chain and AI. We specialize in identifying talent in the labor market and making it available via Trust square to organizations that require skilled and talented people for various positions. **AREUSE** works as an intermediary in the hiring process by interviewing the candidate to find a suitable place of employment, where the candidate’s expertise and competence would benefit the company or position in question.
 
+![Screenshot 2019-10-28 at 16 42 28](https://user-images.githubusercontent.com/55685771/67694018-fdd31c80-f9a2-11e9-8aac-f313b9fdb2e0.png)
+
+
 
 # Objective
 The main objectives of **AREUSE** is to match between Blockchain and AI job offers in Zurich and experienced talented programmers who are looking to dive into cutting edge technologies in a more convenient and effective way, where the primary screening of candidates is done by using the latest artificial Intelligence services. Our fully automated process matches candidates with job offers  through a conversation made between a candidate and our chatbox, along with an automated analysis of the candidate’s CV whom later is offered tests that matches the job opportunities and suits the candidate. 
