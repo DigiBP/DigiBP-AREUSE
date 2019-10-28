@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/Digitalization_of_Business_Process-10%-<green>">
 
 # About AREUSE 
-**AREUSE** is a Swiss startup, with3 co-founders, specialized in the human resources sector and information technology. 
+**AREUSE** is a Swiss startup, with 3 co-founders, specialized in the human resources sector and information technology. 
 **AREUSE** aims to provide unique, simplified and convenient job offering and seeking process. Currently, **AREUSE** is providing professional candidates (Job Seekers) to Trust Square in Zurich, IT startup cluster in the area of Blockchain and AI. **AREUSE** agency will typically keep a file for each employee noting their skills and work history. This helps Trust square to match job seekers experience and skills to their requirements. 
 
 ![the Big Picture](https://github.com/DigiBP/DigiBP-AREUSE/blob/master/src/modelling/areuseGeneral.PNG)
