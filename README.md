@@ -12,9 +12,7 @@ We are trusted service providers offering two main types of services. One is dir
 
 ![Screenshot 2019-10-28 at 16 42 28](https://user-images.githubusercontent.com/55685771/67694018-fdd31c80-f9a2-11e9-8aac-f313b9fdb2e0.png)
 
-![Screenshot 2019-10-28 at 17 06 59](https://user-images.githubusercontent.com/55685771/67695544-89e64380-f9a5-11e9-90d8-00e3a7530117.png)
-
-
+![Screenshot 2019-10-28 at 17 22 49](https://user-images.githubusercontent.com/55685771/67696775-c0bd5900-f9a7-11e9-91bf-cf7417237565.png)
 
 
 # Objective
