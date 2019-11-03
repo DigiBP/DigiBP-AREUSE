@@ -32,7 +32,7 @@ An employer signs up for **AREUSE** when a position becomes available in an orga
 
 
 # Our Vision 
-Our vision is simple, to provide Trust square and candidates with world class recruitment services focused on quality, trust, efficiency and cost. Our vision is to empower our employees , develop relationships, services and overall business together.
+Our vision is simple, to provide Trust square and candidates with world class recruitment services focused on quality, trust, efficiency and cost. Our vision is to empower our employees,develop relationships,services and overall business together.
 
 # Our Service Model
 
