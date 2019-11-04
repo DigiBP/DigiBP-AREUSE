@@ -59,6 +59,16 @@ The employee recruitment process of our company has two models:
 # To-Be Process
 The future process is fully automated and utilize several services and tools
 
+Task 1(Chat received)					
+General			Form		
+1	Id	Se_chatReceived	1	Form key	data received
+2	Name	chat received	2	Form fields	email
+Details			3	Business key	email
+1	Message	chat received(id=message_0s72ok3)			
+2	Message Name	chat received			
+Description-This Message start event delivers the chat box information from the candidate to the processflow thus triggers the start event of the process.					
+
+
 # To-Be Situation
 ![AreuseTobe](https://user-images.githubusercontent.com/21206324/67698981-9ec5d580-f9ab-11e9-8c32-773067dd577e.png)
 
