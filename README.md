@@ -54,7 +54,7 @@ The employee recruitment process of our company has two models:
 
 
 # Current Situation
-![DBP](https://github.com/DigiBP/DigiBP-AREUSE.git/Users/vulliv/Downloads/DigiBP-AREUSE-master.zip/DigiBP-AREUSE-master/src/modelling)
+![DBP](https://github.com/DigiBP/DigiBP-AREUSE-master/src/modelling)
 
 # To-Be Process
 The future process is fully automated and utilize several services and tools
