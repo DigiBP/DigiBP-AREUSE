@@ -10,7 +10,8 @@
  # Who are we?
 We are trusted service providers offering two main types of services. One is directed at the job seeker and the other to an employer looking to hire new employees. **AREUSE** has a continuous reputation of matching candidates’ knowledge, proficiency, capability and qualification with specific job requirements in the field of Block chain and AI. We specialize in identifying talent in the labor market and making it available via Trust square to organizations that require skilled and talented people for various positions. **AREUSE** works as an intermediary in the hiring process by interviewing the candidate to find a suitable place of employment, where the candidate’s expertise and competence would benefit the company or position in question.
 
-![Screenshot 2019-10-28 at 16 42 28](https://user-images.githubusercontent.com/55685771/67694018-fdd31c80-f9a2-11e9-8aac-f313b9fdb2e0.png)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/55685771/68245892-0d440c80-0018-11ea-94b8-8da98302d896.png)
+
 
 ![Screenshot 2019-10-28 at 17 22 49](https://user-images.githubusercontent.com/55685771/67696775-c0bd5900-f9a7-11e9-91bf-cf7417237565.png)
 
