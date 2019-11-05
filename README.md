@@ -12,8 +12,7 @@ We are trusted service providers offering two main types of services. One is dir
 
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/55685771/68245892-0d440c80-0018-11ea-94b8-8da98302d896.png)
 
-
-![Screenshot 2019-10-28 at 17 22 49](https://user-images.githubusercontent.com/55685771/67696775-c0bd5900-f9a7-11e9-91bf-cf7417237565.png)
+![Webp net-](https://user-images.githubusercontent.com/55685771/68246986-336aac00-001a-11ea-919b-863a1663bc16.png)
 
 
 # Objective
