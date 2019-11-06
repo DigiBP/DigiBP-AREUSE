@@ -115,7 +115,7 @@ The model and its description is presented below:
 | __Name__  | Get CV score |
 | __General description__  | a service task runs a command/ service on all our resources i.e,getting CV score by triggering with the another system|
 | __Input__  | gathers CV of the candidate |
-| __Output__  | screens the CV and gives a grade on review and then automates an eail for the candidates who has CVscore less than threshold |	
+| __Output__  | screens the CV and gives a grade on review and then automates an email for the candidates who has CVscore less than threshold |	
 
 
 | | | |
@@ -157,9 +157,9 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Timer Boundary Event task |
+| __Task__  | Timer Boundary Event |
 | __Name__  | Wait for test result|
-| __General description__  | a Timer boundary event task will send a attached tests and waits for 24hours for the candidate response |
+| __General description__  | a Timer boundary event will send a attached tests and waits for 24hours for the candidate response |
 | __Input__  | list of attached tests received |
 | __Output__  | send the attached tests for assessment |
 
@@ -167,9 +167,9 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Element__  | Message End Event task |
+| __Element__  | Message End Event |
 | __Name__  | send rejection |
-| __General description__  | a message end event task will send a rejection email when the candidate fails |
+| __General description__  | a message end event will send a rejection email when the candidate fails |
 
 
 
@@ -193,9 +193,9 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Element__  | Message Intermediate Catch event task |
+| __Element__  | Message Intermediate Catch event |
 | __Name__  | Wait for feedback |
-| __General description__  |  a message intermediate catch event task will wait for the feedback from our client |
+| __General description__  |  a message intermediate catch event will wait for the feedback from our client |
 | __Input__  | information received from both candidate and our client Trust Square |
 | __Output__  | intiates for saving the candidate profile  |
 
