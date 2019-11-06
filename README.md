@@ -58,6 +58,10 @@ The employee recruitment process of our company has two models:
 
 # To-Be Process
 The future process is fully automated and utilize several services and tools
+The model and its description is presented below: 
+
+# To-Be Situation
+![AreuseTobe](https://user-images.githubusercontent.com/21206324/67698981-9ec5d580-f9ab-11e9-8c32-773067dd577e.png)
 
 | | | |
 |-|-|-|
@@ -66,10 +70,6 @@ The future process is fully automated and utilize several services and tools
 | __General description__  | a message event that starts the process when receiving a chat history between our AI and a job seeker  |
 | __Input__  | a chat history from dialogflow  |
 | __Output__  | tagged texts that contain candidate email and information from chat  |	
-
-
-# To-Be Situation
-![AreuseTobe](https://user-images.githubusercontent.com/21206324/67698981-9ec5d580-f9ab-11e9-8c32-773067dd577e.png)
 
 
 
