@@ -59,14 +59,13 @@ The employee recruitment process of our company has two models:
 # To-Be Process
 The future process is fully automated and utilize several services and tools
 
-Task 1(Chat received)					
-General			Form		
-1	Id	Se_chatReceived	1	Form key	data received
-2	Name	chat received	2	Form fields	email
-Details			3	Business key	email
-1	Message	chat received(id=message_0s72ok3)			
-2	Message Name	chat received			
-Description-This Message start event delivers the chat box information from the candidate to the processflow thus triggers the start event of the process.					
+| | | |
+|-|-|-|
+| __Element__  | Start Event  |
+| __Name__  | chat received  |
+| __General description__  | a message event that starts the process when receiving a chat history between our AI and a job seeker  |
+| __Input__  | a chat history from dialogflow  |
+| __Output__  | tagged texts that contain candidate email and information from chat  |	
 
 
 # To-Be Situation
