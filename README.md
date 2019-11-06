@@ -54,7 +54,7 @@ The employee recruitment process of our company has two models:
 
 
 # Current Situation
-![DBP](https://user-images.githubusercontent.com/55685771/67197004-3485c180-f3fc-11e9-8ef5-a00d6ace7dd1.jpg)
+![Current Manual Process bpmn 2](https://user-images.githubusercontent.com/55553886/68298472-b67f1700-0099-11ea-82f8-5dcd7dbe15dd.jpeg)
 
 # To-Be Process
 The future process is fully automated and utilize several services and tools
