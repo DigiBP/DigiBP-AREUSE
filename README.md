@@ -74,8 +74,8 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Extract Email  |
-| __Name__  | t_getEmail |
+| __Task__  | Script task  |
+| __Name__  | Extract Email |
 | __General description__  | a script task is an automated activity interprets the email address from the chat received and creates a respective task so the process continues.  |
 | __Input__  | traces the email address of the candidate  |
 | __Output__  | prepares to intiate an email  |	
@@ -83,8 +83,8 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Extract Tags from chat  |
-| __Name__  | t_getTags |
+| __Task__  | Service Task |
+| __Name__  | Extract Tags from chat |
 | __General description__  | a service task takes the information and perform some technical aspect of the process flow i.e, extract tags from the chat and trigger some action and integrate with another task |
 | __Input__  | receives tagged text from the candidate |
 | __Output__  | collects information from the tagged text and chat information  |	
@@ -93,35 +93,35 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Send email to upload CV  |
-| __Name__  | t_sendEmail |
+| __Task__  | Send Task  |
+| __Name__  | Send email to upload CV |
 | __General description__  | a send task sends a message to the candidate to upload a CV from the process flow |
-| __Input__  | gathers information from email address and tagged text |
+| __Input__  | gathers information of email address and tagged text |
 | __Output__  | intiates candidate response  |	
 
 
 | | | |
 |-|-|-|
-| __Task__  | CV received  |
-| __Name__  | cvRecieved |
-| __General description__  | a message intermediate throw event task waits for a message to arrive from the candidate and intiate the CV screening of the processflow|
+| __Element__  | Message intermediate throw event  |
+| __Name__  | CV received |
+| __General description__  | a message intermediate throw event task waits for a message to arrive from the candidate and intiate the CV screening of the processflow |
 | __Input__  | receives the CV from the candidate |
 | __Output__  | prepares CV for scoring  |	
 
 
 | | | |
 |-|-|-|
-| __Task__  | Get CV score  |
-| __Name__  | t_getCvScore |
-| __General description__  | a service task runs a command/ service on all resources that are allocated to the job i.e,getting CV score by triggering with the another system|
-| __Input__  | gathers CV of the candidate|
+| __Task__  | Service Task  |
+| __Name__  | Get CV score |
+| __General description__  | a service task runs a command/ service on all our resources i.e,getting CV score by triggering with the another system|
+| __Input__  | gathers CV of the candidate |
 | __Output__  | screens the CV and gives a grade on review and then automates an eail for the candidates who has CVscore less than threshold |	
 
 
 | | | |
 |-|-|-|
-| __Task__  | Review Cv  |
-| __Name__  | t_reviewCv |
+| __Task__  | Manual Task |
+| __Name__  | Review Cv |
 | __General description__  | a Manual task is a non automated task where the activity is performed by the user reaching to the client and expert advisors to check if CV needs translation/convert  its format to either give -1/+1|
 | __Input__  | receives an CV Score with good threshold |
 | __Output__  | allocates a CV score by translation/convert  its format  |	
@@ -129,10 +129,89 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  |Save Candidate lnformation |
-| __Name__  | t_saveInfo |
-| __General description__  | a script task saves the candidate information to the database and then trigger the respective task|
+| __Task__  | Script Task |
+| __Name__  | Save Candidate lnformation |
+| __General description__  | a script task saves the candidate information to our AREUSE database and then trigger the respective task|
 | __Input__  | receives and stores the candidate information with all the outlined requirements |
 | __Output__  | displays the saved candidate profile |	
 
+
+| | | |
+|-|-|-|
+| __Task__  |Script Task |
+| __Name__  | Find most appropriate Job information |
+| __General description__  | a script task finds the most appropriate job from our AREUSE data store references |
+| __Input__  | receives the candidate information to search the appropriate job |
+| __Output__  | shows appropriate job based on the saved candidate information |
+
+
+| | | |
+|-|-|-|
+| __Task__  |Send Task |
+| __Name__  |Send attached tests |
+| __General description__  | a send task will send a message to the candidate which includes the relevant tests to evaluate the candidate technical and programming skills outlined in the resume |
+| __Input__  | receives the appropriate job lists based on the candidate profile |
+| __Output__  | triggers the candidate response on attached tests |
+
+
+
+| | | |
+|-|-|-|
+| __Task__  | Timer Boundary Event task |
+| __Name__  | Wait for test result|
+| __General description__  | a Timer boundary event task will send a attached tests and waits for 24hours for the candidate response |
+| __Input__  | list of attached tests received |
+| __Output__  | send the attached tests for assessment |
+
+
+
+| | | |
+|-|-|-|
+| __Element__  | Message End Event task |
+| __Name__  | send rejection |
+| __General description__  | a message end event task will send a rejection email when the candidate fails |
+
+
+
+| | | |
+|-|-|-|
+| __Task__  | Send Task |
+| __Name__  | Inform candidate |
+| __General description__  |  a send task will send a message to the candidate to inform the test result |
+| __Input__  | receives the test result |
+| __Output__  | sends the confirmation about the pass result |
+
+
+| | | |
+|-|-|-|
+| __Task__  | Send Task |
+| __Name__  | Send candidate profile |
+| __General description__  |  a send task will send a message of the candidate's profile to the client |
+| __Input__  | receives the test result |
+| __Output__  | intiates the client for candidate profile assessment |
+
+
+| | | |
+|-|-|-|
+| __Element__  | Message Intermediate Catch event task |
+| __Name__  | Wait for feedback |
+| __General description__  |  a message intermediate catch event task will wait for the feedback from our client |
+| __Input__  | information received from both candidate and our client Trust Square |
+| __Output__  | intiates for saving the candidate profile  |
+
+
+| | | |
+|-|-|-|
+| __Task__  | Manual Task |
+| __Name__  | Save client feedback |
+| __General description__  |  saves the feedback to our AREUSE database |
+| __Input__  | gets the Trust square clients feedback |
+| __Output__  | intiates for saving the candidate profile  |
+
+
+| | | |
+|-|-|-|
+| __Element__  | End Event|
+| __Name__  | End |
+| __General description__  |  a end event ends the process after receiving the client's feedback and saving the candidate profile to the AREUSE database |
 
