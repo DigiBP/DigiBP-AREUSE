@@ -74,7 +74,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Script task  |
+| __Element__  | Script task  |
 | __Name__  | Extract Email |
 | __General description__  | a script task is an automated activity interprets the email address from the chat received and creates a respective task so the process continues.  |
 | __Input__  | traces the email address of the candidate  |
@@ -83,7 +83,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Service Task |
+| __Element__  | Service Task |
 | __Name__  | Extract Tags from chat |
 | __General description__  | a service task takes the information and perform some technical aspect of the process flow i.e, extract tags from the chat and trigger some action and integrate with another task |
 | __Input__  | receives tagged text from the candidate |
@@ -93,7 +93,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Send Task  |
+| __Element__  | Send Task  |
 | __Name__  | Send email to upload CV |
 | __General description__  | a send task sends a message to the candidate to upload a CV from the process flow |
 | __Input__  | gathers information of email address and tagged text |
@@ -111,7 +111,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Service Task  |
+| __Element__  | Service Task  |
 | __Name__  | Get CV score |
 | __General description__  | a service task runs a command/ service on all our resources i.e,getting CV score by triggering with the another system|
 | __Input__  | gathers CV of the candidate |
@@ -120,7 +120,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Manual Task |
+| __Element__  | Manual Task |
 | __Name__  | Review Cv |
 | __General description__  | a Manual task is a non automated task where the activity is performed by the user reaching to the client and expert advisors to check if CV needs translation/convert  its format to either give -1/+1|
 | __Input__  | receives an CV Score with good threshold |
@@ -129,7 +129,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Script Task |
+| __Element__  | Script Task |
 | __Name__  | Save Candidate lnformation |
 | __General description__  | a script task saves the candidate information to our AREUSE database and then trigger the respective task|
 | __Input__  | receives and stores the candidate information with all the outlined requirements |
@@ -138,7 +138,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  |Script Task |
+| __Element__  |Script Task |
 | __Name__  | Find most appropriate Job information |
 | __General description__  | a script task finds the most appropriate job from our AREUSE data store references |
 | __Input__  | receives the candidate information to search the appropriate job |
@@ -147,7 +147,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  |Send Task |
+| __Element__  |Send Task |
 | __Name__  |Send attached tests |
 | __General description__  | a send task will send a message to the candidate which includes the relevant tests to evaluate the candidate technical and programming skills outlined in the resume |
 | __Input__  | receives the appropriate job lists based on the candidate profile |
@@ -157,7 +157,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Timer Boundary Event |
+| __Element__  | Timer Boundary Event |
 | __Name__  | Wait for test result|
 | __General description__  | a Timer boundary event will send a attached tests and waits for 24hours for the candidate response |
 | __Input__  | list of attached tests received |
@@ -175,7 +175,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Send Task |
+| __Element__  | Send Task |
 | __Name__  | Inform candidate |
 | __General description__  |  a send task will send a message to the candidate to inform the test result |
 | __Input__  | receives the test result |
@@ -184,7 +184,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Send Task |
+| __Element__  | Send Task |
 | __Name__  | Send candidate profile |
 | __General description__  |  a send task will send a message of the candidate's profile to the client |
 | __Input__  | receives the test result |
@@ -202,7 +202,7 @@ The model and its description is presented below:
 
 | | | |
 |-|-|-|
-| __Task__  | Manual Task |
+| __Element__  | Manual Task |
 | __Name__  | Save client feedback |
 | __General description__  |  saves the feedback to our AREUSE database |
 | __Input__  | gets the Trust square clients feedback |
