@@ -71,5 +71,7 @@ The model and its description is presented below:
 | __Input__  | a chat history from dialogflow  |
 | __Output__  | tagged texts that contain candidate email and information from chat  |	
 
+[Doc1.docx](https://github.com/DigiBP/DigiBP-AREUSE/files/3814552/Doc1.docx)
+
 
 
