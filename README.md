@@ -71,7 +71,68 @@ The model and its description is presented below:
 | __Input__  | a chat history from dialogflow  |
 | __Output__  | tagged texts that contain candidate email and information from chat  |	
 
-[Doc1.docx](https://github.com/DigiBP/DigiBP-AREUSE/files/3814552/Doc1.docx)
 
+| | | |
+|-|-|-|
+| __Task__  | Extract Email  |
+| __Name__  | t_getEmail |
+| __General description__  | a script task is an automated activity interprets the email address from the chat received and creates a respective task so the process continues.  |
+| __Input__  | traces the email address of the candidate  |
+| __Output__  | prepares to intiate an email  |	
+
+
+| | | |
+|-|-|-|
+| __Task__  | Extract Tags from chat  |
+| __Name__  | t_getTags |
+| __General description__  | a service task takes the information and perform some technical aspect of the process flow i.e, extract tags from the chat and trigger some action and integrate with another task |
+| __Input__  | receives tagged text from the candidate |
+| __Output__  | collects information from the tagged text and chat information  |	
+
+
+
+| | | |
+|-|-|-|
+| __Task__  | Send email to upload CV  |
+| __Name__  | t_sendEmail |
+| __General description__  | a send task sends a message to the candidate to upload a CV from the process flow |
+| __Input__  | gathers information from email address and tagged text |
+| __Output__  | intiates candidate response  |	
+
+
+| | | |
+|-|-|-|
+| __Task__  | CV received  |
+| __Name__  | cvRecieved |
+| __General description__  | a message intermediate throw event task waits for a message to arrive from the candidate and intiate the CV screening of the processflow|
+| __Input__  | receives the CV from the candidate |
+| __Output__  | prepares CV for scoring  |	
+
+
+| | | |
+|-|-|-|
+| __Task__  | Get CV score  |
+| __Name__  | t_getCvScore |
+| __General description__  | a service task runs a command/ service on all resources that are allocated to the job i.e,getting CV score by triggering with the another system|
+| __Input__  | gathers CV of the candidate|
+| __Output__  | screens the CV and gives a grade on review and then automates an eail for the candidates who has CVscore less than threshold |	
+
+
+| | | |
+|-|-|-|
+| __Task__  | Review Cv  |
+| __Name__  | t_reviewCv |
+| __General description__  | a Manual task is a non automated task where the activity is performed by the user reaching to the client and expert advisors to check if CV needs translation/convert  its format to either give -1/+1|
+| __Input__  | receives an CV Score with good threshold |
+| __Output__  | allocates a CV score by translation/convert  its format  |	
+
+
+| | | |
+|-|-|-|
+| __Task__  |Save Candidate lnformation |
+| __Name__  | t_saveInfo |
+| __General description__  | a script task saves the candidate information to the database and then trigger the respective task|
+| __Input__  | receives and stores the candidate information with all the outlined requirements |
+| __Output__  | displays the saved candidate profile |	
 
 
