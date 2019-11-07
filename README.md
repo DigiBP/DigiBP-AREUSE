@@ -77,8 +77,8 @@ The model and its description is presented below:
 | __Element__  | Script task  |
 | __Name__  | Extract Email |
 | __General description__  | a script task is an automated activity interprets the email address from the chat received and creates a respective task so the process continues.  |
-| __Input__  | traces the email address of the candidate  |
-| __Output__  | prepares to intiate an email  |	
+| __Input__  | tagged text from the message event  |
+| __Output__  | email variable that contains the business key (candidate email)  |	
 
 
 | | | |
@@ -86,8 +86,8 @@ The model and its description is presented below:
 | __Element__  | Service Task |
 | __Name__  | Extract Tags from chat |
 | __General description__  | a service task takes the information and perform some technical aspect of the process flow i.e, extract tags from the chat and trigger some action and integrate with another task |
-| __Input__  | receives tagged text from the candidate |
-| __Output__  | collects information from the tagged text and chat information  |	
+| __Input__  | tagged text from the message event |
+| __Output__  | extract tags and convert them to variables with their respective values |	
 
 
 
