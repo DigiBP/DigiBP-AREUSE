@@ -105,8 +105,8 @@ The model and its description is presented below:
 | __Element__  | Message intermediate throw event|
 | __Name__  | CV received |
 | __General description__  | a message intermediate throw event task waits for an email to arrive from the candidate and intiate the CV screening of the processflow |
-| __Input__  | signal from Integromat that the candidate sent the CV|
-| __Output__  | permit the flow to proceede|	
+| __Input__  | signal from Integromat that the candidate sent the CV |
+| __Output__  | permit the flow to proceed |	
 
 
 | | | |
