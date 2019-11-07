@@ -141,8 +141,8 @@ The model and its description is presented below:
 | __Element__  |Script Task |
 | __Name__  | Find most appropriate Job information |
 | __General description__  | a script task finds the most appropriate job from our AREUSE data store references |
-| __Input__  | receives the candidate information to search the appropriate job |
-| __Output__  | shows appropriate job based on the saved candidate information |
+| __Input__  | updated google sheets with candidate information |
+| __Output__  | lists out the appropriate jobs |
 
 
 | | | |
@@ -150,8 +150,8 @@ The model and its description is presented below:
 | __Element__  |Send Task |
 | __Name__  |Send attached tests |
 | __General description__  | a send task will send a message to the candidate which includes the relevant tests to evaluate the candidate technical and programming skills outlined in the resume |
-| __Input__  | receives the appropriate job lists based on the candidate profile |
-| __Output__  | triggers the candidate response on attached tests |
+| __Input__  | Matches candidate information with job lists  |
+| __Output__  | relevant tests sent |
 
 
 
@@ -159,9 +159,8 @@ The model and its description is presented below:
 |-|-|-|
 | __Element__  | Timer Boundary Event |
 | __Name__  | Wait for test result|
-| __General description__  | a Timer boundary event will send a attached tests and waits for 24hours for the candidate response |
-| __Input__  | list of attached tests received |
-| __Output__  | send the attached tests for assessment |
+| __General description__  | a Timer boundary event waits for 24hours for the candidate response |
+
 
 
 
@@ -169,7 +168,7 @@ The model and its description is presented below:
 |-|-|-|
 | __Element__  | Message End Event |
 | __Name__  | send rejection |
-| __General description__  | a message end event will send a rejection email when the candidate fails |
+| __General description__  | a message end event sends a rejection email if the candidate fails to meet the appropriate score |
 
 
 
@@ -177,27 +176,27 @@ The model and its description is presented below:
 |-|-|-|
 | __Element__  | Send Task |
 | __Name__  | Inform candidate |
-| __General description__  |  a send task will send a message to the candidate to inform the test result |
-| __Input__  | receives the test result |
-| __Output__  | sends the confirmation about the pass result |
+| __General description__  |  a send task sends a message to the candidate to inform the test result |
+| __Input__  | Test result received |
+| __Output__  | Result information sent |
 
 
 | | | |
 |-|-|-|
 | __Element__  | Send Task |
 | __Name__  | Send candidate profile |
-| __General description__  |  a send task will send a message of the candidate's profile to the client |
-| __Input__  | receives the test result |
-| __Output__  | intiates the client for candidate profile assessment |
+| __General description__  |  a send task sends a message of the candidate's profile to the client |
+| __Input__  | Test result received |
+| __Output__  |  Candidate profile assessment sent to client |
 
 
 | | | |
 |-|-|-|
 | __Element__  | Message Intermediate Catch event |
 | __Name__  | Wait for feedback |
-| __General description__  |  a message intermediate catch event will wait for the feedback from our client |
-| __Input__  | information received from both candidate and our client Trust Square |
-| __Output__  | intiates for saving the candidate profile  |
+| __General description__  |  a message intermediate catch event waits for the feedback from our client |
+| __Input__  | Receives information from both candidate and our client Trust Square |
+| __Output__  | saves the candidate profile  |
 
 
 | | | |
@@ -205,8 +204,8 @@ The model and its description is presented below:
 | __Element__  | Manual Task |
 | __Name__  | Save client feedback |
 | __General description__  |  saves the feedback to our AREUSE database |
-| __Input__  | gets the Trust square clients feedback |
-| __Output__  | intiates for saving the candidate profile  |
+| __Input__  | Gets the Trust square clients feedback |
+| __Output__  | stores to database  |
 
 
 | | | |
