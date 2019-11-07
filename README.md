@@ -87,7 +87,7 @@ The model and its description is presented below:
 | __Name__  | Extract Tags from chat |
 | __General description__  | a service task takes the information and perform some technical aspect of the process flow i.e, extract tags from the chat and trigger some action and integrate with another task |
 | __Input__  | tagged text from the message event |
-| __Output__  | extract tags and convert them to variables with their respective values |	
+| __Output__  | variables with their respective values extracted from tags|	
 
 
 
@@ -95,27 +95,27 @@ The model and its description is presented below:
 |-|-|-|
 | __Element__  | Send Task  |
 | __Name__  | Send email to upload CV |
-| __General description__  | a send task sends a message to the candidate to upload a CV from the process flow |
-| __Input__  | gathers information of email address and tagged text |
-| __Output__  | intiates candidate response  |	
+| __General description__  | a send task sends an email to the candidate asking him/her to reply with a CV|
+| __Input__  | Business Key (email address) |
+| __Output__  | confirmation of email sent  |	
 
 
 | | | |
 |-|-|-|
-| __Element__  | Message intermediate throw event  |
+| __Element__  | Message intermediate throw event|
 | __Name__  | CV received |
-| __General description__  | a message intermediate throw event task waits for a message to arrive from the candidate and intiate the CV screening of the processflow |
-| __Input__  | receives the CV from the candidate |
-| __Output__  | prepares CV for scoring  |	
+| __General description__  | a message intermediate throw event task waits for an email to arrive from the candidate and intiate the CV screening of the processflow |
+| __Input__  | signal from Integromat that the candidate sent the CV|
+| __Output__  | permit the flow to proceede|	
 
 
 | | | |
 |-|-|-|
-| __Element__  | Service Task  |
+| __Element__  | Service Task|
 | __Name__  | Get CV score |
-| __General description__  | a service task runs a command/ service on all our resources i.e,getting CV score by triggering with the another system|
-| __Input__  | gathers CV of the candidate |
-| __Output__  | screens the CV and gives a grade on review and then automates an email for the candidates who has CVscore less than threshold |	
+| __General description__  | a service task triggers a request to a workflow in Integromat which sends the cv to RizScore and get a scoring based on their algorithm|
+| __Input__  | CV file in pdf or word |
+| __Output__  | a CV score which varies from A to F|	
 
 
 | | | |
@@ -123,8 +123,8 @@ The model and its description is presented below:
 | __Element__  | Manual Task |
 | __Name__  | Review Cv |
 | __General description__  | a Manual task is a non automated task where the activity is performed by the user reaching to the client and expert advisors to check if CV needs translation/convert  its format to either give -1/+1|
-| __Input__  | receives an CV Score with good threshold |
-| __Output__  | allocates a CV score by translation/convert  its format  |	
+| __Input__  | receives an CV Score with C Score |
+| __Output__  | an adapted CV score of either A/B or D/F|	
 
 
 | | | |
@@ -132,8 +132,8 @@ The model and its description is presented below:
 | __Element__  | Script Task |
 | __Name__  | Save Candidate lnformation |
 | __General description__  | a script task saves the candidate information to our AREUSE database and then trigger the respective task|
-| __Input__  | receives and stores the candidate information with all the outlined requirements |
-| __Output__  | displays the saved candidate profile |	
+| __Input__  | data about the candidate information with all the outlined requirements |
+| __Output__  | a signal that data is now saved to our database (google sheets) |	
 
 
 | | | |
