@@ -54,14 +54,14 @@ The employee recruitment process of our company has two models:
 
 
 # Current Situation
-![AreuseTobe](https://user-images.githubusercontent.com/21206324/69092376-8433c900-0a4c-11ea-89e6-c8f60c04adf7.png)
+![Current Manual Process bpmn 3](https://user-images.githubusercontent.com/55553886/68851861-f9af3a80-06d6-11ea-8377-539a9375930c.jpeg)
 
 # To-Be Process
 The future process is fully automated and utilize several services and tools
 The model and its description is presented below: 
 
 # To-Be Situation
-![AreuseTobe](https://user-images.githubusercontent.com/21206324/68380642-82b2f880-0150-11ea-88f2-d62741d3f10e.png)
+![AreuseTobe](https://user-images.githubusercontent.com/21206324/69092376-8433c900-0a4c-11ea-89e6-c8f60c04adf7.png)
 
 | | | |
 |-|-|-|
