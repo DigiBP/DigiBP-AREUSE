@@ -57,8 +57,7 @@ The employee recruitment process of our company has two models:
 ![Current Manual Process bpmn 3](https://user-images.githubusercontent.com/55553886/68851861-f9af3a80-06d6-11ea-8377-539a9375930c.jpeg)
 
 # To-Be Process
-The future process is fully automated and utilize several services and tools
-The model and its description is presented below: 
+AREUSE to improve the job seeker experience and to have Job search more efficient, an AI assistance.i.e,chat bot communicate with the Candidate by text ,answers common questions and automates much of the communication through Integromat to extract text tags and email address of the Candidate to request  CV. Uploaded Candidate 's CV integromates with Rezscore for scoring based on their algorithm with a grading from A to F. Candidates with higher threshold are sent with the most appropriate jobs from our AREUSE database (google sheets) and sends all the relevant tests to evaluate the candidate technical and programming skills outlined in the resume with a timelapse of 24hours .The qualified candidates profile is sent to our client  for assessment and simultaneously request  for feedback from both the Client and Candidate and saved to our Areuse database (google sheets).
 
 # To-Be Situation
 ![AreuseTobe](https://user-images.githubusercontent.com/21206324/69092376-8433c900-0a4c-11ea-89e6-c8f60c04adf7.png)
