@@ -200,7 +200,7 @@ AREUSE to improve the job seeker experience and to have Job search more efficien
 
 | | | |
 |-|-|-|
-| __Element__  | Manual Task |
+| __Element__  | Task |
 | __Name__  | Save client feedback |
 | __General description__  |  saves the feedback to our AREUSE database |
 | __Input__  | Gets the Trust square clients feedback |
