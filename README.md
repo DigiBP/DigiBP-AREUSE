@@ -59,6 +59,18 @@ The employee recruitment process of our company has two models:
 # To-Be Process
 AREUSE to improve the job seeker experience and to have Job search more efficient, an AI assistance.i.e,chat bot communicate with the Candidate by text ,answers common questions and automates much of the communication through Integromat to extract text tags and email address of the Candidate to request  CV. Uploaded Candidate 's CV integromates with Rezscore for scoring based on their algorithm with a grading from A to F. Candidates with higher threshold are sent with the most appropriate jobs from our AREUSE database (google sheets) and sends all the relevant tests to evaluate the candidate technical and programming skills outlined in the resume with a timelapse of 24hours .The qualified candidates profile is sent to our client  for assessment and simultaneously request  for feedback from both the Client and Candidate and saved to our Areuse database (google sheets).
 
+###### The steps involved in the recruitment process:
+* Chat received from the Chatbot
+* Interpretation of the email address and tagged text.
+* Request to upload CV.
+* Scoring the CV with various grades ranging from A to F (If the Grade is A/B-Selected,C-Send to Review,D/E/F -Not Selected)
+* Lists out the Appropriate jobs to Selected Candidates.
+* Relevant Tests are sent to evaluate the Candidate technical and programming skills.
+* Evaluation of the Tests (If Passed-Selected ,If Fails- Not selected)
+* Selected Candidate profile sent to Client.
+* Request for Feedback from both Candidate and Client.
+* Save the Feedback to the Database.
+
 # To-Be Situation
 ![AreuseTobe](https://user-images.githubusercontent.com/21206324/69092376-8433c900-0a4c-11ea-89e6-c8f60c04adf7.png)
 
