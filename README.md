@@ -54,7 +54,7 @@ The employee recruitment process of our company has two models:
 
 
 # Current Situation
-![Current Manual Process bpmn 3](https://user-images.githubusercontent.com/55553886/68851861-f9af3a80-06d6-11ea-8377-539a9375930c.jpeg)
+![Current Manual Process bpmn 4](https://user-images.githubusercontent.com/55553886/69800084-d0150980-11d4-11ea-9788-cd8a37ddce6d.jpeg)
 
 # To-Be Process
 AREUSE to improve the job seeker experience and to have Job search more efficient, an AI assistance.i.e,chat bot communicate with the Candidate by text ,answers common questions and automates much of the communication through Integromat to extract text tags and email address of the Candidate to request  CV. Uploaded Candidate 's CV integromates with Rezscore for scoring based on their algorithm with a grading from A to F. Candidates with higher threshold are sent with the most appropriate jobs from our AREUSE database (google sheets) and sends all the relevant tests to evaluate the candidate technical and programming skills outlined in the resume with a timelapse of 24hours .The qualified candidates profile is sent to our client  for assessment and simultaneously request  for feedback from both the Client and Candidate and saved to our Areuse database (google sheets).
