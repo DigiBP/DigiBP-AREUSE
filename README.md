@@ -64,7 +64,7 @@ AREUSE to improve the job seeker experience and to have Job search more efficien
 * Interpretation of the email address and tagged text.
 * Request to upload CV.
 * Scoring of the CV with various grades ranging from A to F (If the Grade is A/B-Selected,C-Send to Review,D/E/F -Not Selected)
-* Matching CV Score with the Appropriate job from our database.
+* Matching CV Score with the Appropriate job from the database.
 * Relevant Tests are sent to evaluate the Candidate technical and programming skills.
 * Evaluation of the Tests (If Passed-Selected ,If Fails- Not selected)
 * Selected Candidate profile sent to Client.
