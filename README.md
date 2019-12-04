@@ -8,7 +8,7 @@
 
 
  # Who are we?
-We are trusted service providers offering two main types of services. One is directed at the job seeker and the other to an employer looking to hire new employees. **AREUSE** has a continuous reputation of matching candidates’ knowledge, proficiency, capability and qualification with specific job requirements in the field of Block chain and AI. We specialize in identifying talent in the labor market and making it available via Trust square to organizations that require skilled and talented people for various positions. **AREUSE** works as an intermediary in the hiring process by interviewing the candidate to find a suitable place of employment, where the candidate’s expertise and competence would benefit the company or position in question.
+We are trusted service providers offering two main types of services. One is directed at the job seeker and the other to an employer looking to hire new employees. **AREUSE** has a continuous reputation of matching candidates’ knowledge, proficiency, capability and qualification with specific job requirements in the field of Block chain and AI. We specialize in identifying talent in the labor market and making it available via Trust square to organizations that require skilled and talented people for various positions. **AREUSE** works as an intermediary in the hiring process by screening the candidate to find a suitable place of employment, where the candidate’s expertise and competence would benefit the company or position in question.
 
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/55685771/68245892-0d440c80-0018-11ea-94b8-8da98302d896.png)
 
@@ -25,14 +25,14 @@ One of our hallmarks is the successful placement of suitable job candidates in t
 Make the difference for our client and the candidates. We place both in the center of everything we do. **AREUSE** is fully committed to their success and mutual benefit in every aspects of their challenge. We transform recruitment process with our leading-edge digital technology and process knowledge. 
 
 ## Benefit for Employer
-An employer signs up for **AREUSE** when a position becomes available in an organization. One of the primary benefits for the employer is that the company does not have to spend time in screening CV’s, candidate communications including follow ups and interviewing potential candidates or launch job availability campaigns. This saves time, money and resources for the employer. It also helps HR Team to deal with more important things. When the candidates proposed by AREUSE and selected by client, they are expected to possess relevant skills and experience, which will shorten the training period for the employer.
+The employer signs up for **AREUSE** when a position becomes available in their organization. One of the primary benefits for the employer is that the company does not have to spend time in screening CV’s, candidate communications including follow ups and launch job availability campaigns. This saves time, money and resources for the employer. It also helps HR Team to deal with more important things. When the candidates proposed by AREUSE and selected by client, they are expected to possess relevant skills and experience, which will shorten the training period for the employer.
 
 ## Benefit for Employee
-**AREUSE** reduces stress for the candidates by avoiding tedious and time consuming recruitment process. **AREUSE** improves candidate’s experience and better job satisfaction by getting appropriate job and matching his skill set. Do not cost anything for the employees.
+**AREUSE** reduces stress for the candidates by avoiding tedious and time consuming recruitment process. **AREUSE** improves candidate’s experience and better job satisfaction by getting appropriate job and matching his/her skill set. More over it does not cost anything for the employees.
 
 
 # Our Vision 
-Our vision is simple, to provide Trust square and candidates with world class recruitment services focused on quality, trust, efficiency and cost. Our vision is to empower our employees,develop relationships,services and overall business together.
+Our vision is prudent, to provide Trust square and candidates with world class recruitment services focused on quality, trust, efficiency and cost. Our vision is to empower our employees,develop relationships,services and overall business together.
 
 # Our Service Model
 
