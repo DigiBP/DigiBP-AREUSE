@@ -28,7 +28,7 @@ Make the difference for our client and the candidates. We place both in the cent
 An employer signs up for **AREUSE** when a position becomes available in an organization. One of the primary benefits for the employer is that the company does not have to spend time in screening CV’s, candidate communications including follow ups and interviewing potential candidates or launch job availability campaigns. This saves time, money and resources for the employer. It also helps HR Team to deal with more important things. When the candidates proposed by AREUSE and selected by client, they are expected to possess relevant skills and experience, which will shorten the training period for the employer.
 
 ## Benefit for Employee
-**AREUSE** reduces stress and fatigue for the candidates by avoiding tedious and time consuming recruitment process. **AREUSE** improves candidate’s experience and better job satisfaction by getting appropriate job and matching his skill set. Do not cost anything for the employees.
+**AREUSE** reduces stress for the candidates by avoiding tedious and time consuming recruitment process. **AREUSE** improves candidate’s experience and better job satisfaction by getting appropriate job and matching his skill set. Do not cost anything for the employees.
 
 
 # Our Vision 
