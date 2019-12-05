@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/DigiBP/DigiBP-AREUSE?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
+![shield](https://user-images.githubusercontent.com/21206324/70219631-71580e80-1745-11ea-8c0d-05d0706891a5.PNG)
+
 
 # About AREUSE 
 **AREUSE** is a Swiss startup, with 3 co-founders, specialized in the human resources sector and information technology. 
