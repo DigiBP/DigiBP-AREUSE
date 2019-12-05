@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Digitalization_of_Business_Process-10%-<green>">
+[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
 
 # About AREUSE 
 **AREUSE** is a Swiss startup, with 3 co-founders, specialized in the human resources sector and information technology. 
