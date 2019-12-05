@@ -199,16 +199,16 @@ AREUSE to improve the job seeker experience and to have Job search more efficien
 | __Name__  | Send candidate profile |
 | __General description__  |  a send task sends a message of the candidate's profile to the client |
 | __Input__  | Test result received |
-| __Output__  |  Candidate profile assessment sent to client |
+| __Output__  |  Candidate profile sent to client |
 
 
 | | | |
 |-|-|-|
 | __Element__  | Message Intermediate Catch event |
-| __Name__  | Wait for feedback |
+| __Name__  | Wait for feedback of Candidate|
 | __General description__  |  a message intermediate catch event waits for the feedback from our client |
-| __Input__  | Receives information from both candidate and our client Trust Square |
-| __Output__  | saves the candidate profile  |
+| __Input__  | Request the candidate for feedback |
+| __Output__  | Receives feedback from the candidate |
 
 
 | | | |
