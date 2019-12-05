@@ -32,7 +32,7 @@ The employer signs up for **AREUSE** when a position becomes available in their 
 
 
 # Our Vision 
-Our vision is prudent, to provide Trust square and candidates with world class recruitment services focused on quality, trust, efficiency and cost. Our vision is to empower our employees,develop relationships,services and overall business together.
+Our vision is to provide our employer clients and candidates with world class recruitment service focused on high quality, trust, efficiency and cost-effective. We aim to empower our job seekers to find the job they always dream of, develop relationships, and overall business together.
 
 # Our Service Model
 
