@@ -13,11 +13,11 @@
     2. [To-Be process](#To-BeProcess)
     
     
-## This is the introduction <a name="introduction"></a>
+# Introduction <a name="introduction"></a>
 
 
-### About AREUSE <a name="aboutareuse"></a>
-This is about areuse, formatted in heading 3 style
+# About AREUSE <a name="aboutareuse"></a>
+This is about areuse, formatted in heading 1 style
 
 # About AREUSE 
 **AREUSE** is a Swiss startup, with 3 co-founders, specialized in the human resources sector and information technology. 
