@@ -14,10 +14,10 @@
     
     
 ## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+
 
 ### About AREUSE <a name="aboutareuse"></a>
-the first paragraph set
+This is about areuse, formatted in heading 3 style
 
 # About AREUSE 
 **AREUSE** is a Swiss startup, with 3 co-founders, specialized in the human resources sector and information technology. 
