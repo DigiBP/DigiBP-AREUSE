@@ -6,11 +6,11 @@
     2. Who are we?
     3. Objective
     4. Our Mission
-    5. Our Mission
+    5. Our Vision
       
-2. [Our Service Model](#our service model)
-    1. [As-Is Process](#As-Is Process)
-    2. [To-Be process](#To-Be Process)
+2. [Our Service Model](#ourservicemodel)
+    1. [As-Is Process](#As-IsProcess)
+    2. [To-Be process](#To-BeProcess)
     
 ## Introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
@@ -21,32 +21,23 @@ This is a sub paragraph, formatted in heading 3 style
 ### Sub paragraph <a name="whoarewe?"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-
-
-
-    
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
+### Sub paragraph <a name="objective"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
+### Sub paragraph <a name="ourmission"></a>
+This is a sub paragraph, formatted in heading 3 style
 
-Introduction
-Some paragraph
-Sub paragraph
-Another paragraph
+### Sub paragraph <a name="ourvision"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Our Service Model <a name="ourservicemodel"></a>
+Some introduction text, formatted in heading 2 style
+
+### As-Is Process <a name="as-isprocess"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+### To-Be Process <a name="to-beprocess"></a>
+This is a sub paragraph, formatted in heading 3 style
 
 
 # About AREUSE 
