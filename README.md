@@ -2,34 +2,16 @@
 
 # Contents
 1. [Introduction](#introduction)
-    1. About **AREUSE** (#about**areuse**)
-    2. Who are we? (#whoarewe?)
-    3. Objective (#objective)
-    4. Our Mission (#ourmission)
-    5. Our Vision (#ourvision)
+    1. [About **AREUSE** ](#about**areuse**)
+    2. [Who are we?] (#whoarewe?)
+    3. [Objective] (#objective)
+    4. [Our Mission] (#ourmission)
+    5. [Our Vision](#ourvision)
       
 2. [Our Service Model](#ourservicemodel)
     1. [As-Is Process](#As-IsProcess)
     2. [To-Be process](#To-BeProcess)
     
-## Introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-### About **AREUSE** <a name="aboutAREUSE"></a>
-This is about AREUSE, formatted in heading 3 style
-
-### Who are we?<a name="whoarewe?"></a>
-This is who are we?, formatted in heading 3 style
-
-### Objective <a name="objective"></a>
-This is objective, formatted in heading 3 style
-
-### Our Mission <a name="ourmission"></a>
-This is our mission, formatted in heading 3 style
-
-### Our Vision <a name="ourvision"></a>
-This is our vision, formatted in heading 3 style
-
 
 # About AREUSE 
 **AREUSE** is a Swiss startup, with 3 co-founders, specialized in the human resources sector and information technology. 
