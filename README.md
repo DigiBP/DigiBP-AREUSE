@@ -30,15 +30,6 @@ This is our mission, formatted in heading 3 style
 ### Our Vision <a name="ourvision"></a>
 This is our vision, formatted in heading 3 style
 
-## Our Service Model <a name="ourservicemodel"></a>
-Some introduction text, formatted in heading 2 style
-
-### As-Is Process <a name="as-isprocess"></a>
-This is a as-is process, formatted in heading 3 style
-
-### To-Be Process <a name="to-beprocess"></a>
-This is to-be process, formatted in heading 3 style
-
 
 # About AREUSE 
 **AREUSE** is a Swiss startup, with 3 co-founders, specialized in the human resources sector and information technology. 
