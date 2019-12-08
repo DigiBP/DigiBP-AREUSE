@@ -3,9 +3,9 @@
 # Contents
 1. [Introduction](#introduction)
     1. [About **AREUSE** ](#about**areuse**)
-    2. [Who are we?] (#whoarewe?)
-    3. [Objective] (#objective)
-    4. [Our Mission] (#ourmission)
+    2. [Who are we?](#whoarewe?)
+    3. [Objective](#objective)
+    4. [Our Mission](#ourmission)
     5. [Our Vision](#ourvision)
       
 2. [Our Service Model](#ourservicemodel)
