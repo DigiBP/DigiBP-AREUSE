@@ -15,29 +15,29 @@
 ## Introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
 
-### Sub paragraph <a name="aboutAREUSE"></a>
-This is a sub paragraph, formatted in heading 3 style
+### About **AREUSE** <a name="aboutAREUSE"></a>
+This is about AREUSE, formatted in heading 3 style
 
-### Sub paragraph <a name="whoarewe?"></a>
-This is a sub paragraph, formatted in heading 3 style
+### Who are we?<a name="whoarewe?"></a>
+This is who are we?, formatted in heading 3 style
 
-### Sub paragraph <a name="objective"></a>
-This is a sub paragraph, formatted in heading 3 style
+### Objective <a name="objective"></a>
+This is objective, formatted in heading 3 style
 
-### Sub paragraph <a name="ourmission"></a>
-This is a sub paragraph, formatted in heading 3 style
+### Our Mission <a name="ourmission"></a>
+This is our mission, formatted in heading 3 style
 
-### Sub paragraph <a name="ourvision"></a>
-This is a sub paragraph, formatted in heading 3 style
+### Our Vision <a name="ourvision"></a>
+This is our vision, formatted in heading 3 style
 
 ## Our Service Model <a name="ourservicemodel"></a>
 Some introduction text, formatted in heading 2 style
 
 ### As-Is Process <a name="as-isprocess"></a>
-This is a sub paragraph, formatted in heading 3 style
+This is a as-is process, formatted in heading 3 style
 
 ### To-Be Process <a name="to-beprocess"></a>
-This is a sub paragraph, formatted in heading 3 style
+This is to-be process, formatted in heading 3 style
 
 
 # About AREUSE 
