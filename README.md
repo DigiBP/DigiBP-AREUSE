@@ -2,18 +2,18 @@
 
 # Contents
 1. [Introduction](#introduction)
-    1. [About **AREUSE** ](#aboutareuse1)
-    2. [Who are we?](#whoarewe2)
+    1. [About **AREUSE** ](#about**areuse**)
+    2. [Who are we?](#whoarewe)
     3. [Objective](#objective)
     4. [Our Mission](#ourmission)
     5. [Our Vision](#ourvision)
       
-2. [Our Service Model](#ourservicemodel)
-    1. [As-Is Process](#As-IsProcess)
-    2. [To-Be process](#To-BeProcess)
+2. [Our Service Model](#our service model)
+    1. [As-Is Process](#As-Is Process)
+    2. [To-Be process](#To-Be Process)
     
     
-
+<a name="about**areuse**"></a>
 # About AREUSE 
 **AREUSE** is a Swiss startup, with 3 co-founders, specialized in the human resources sector and information technology. 
 **AREUSE** aims to provide unique, simplified and convenient job offering and seeking process. Currently, **AREUSE** is providing professional candidates (Job Seekers) to Trust Square in Zurich, IT startup cluster in the area of Blockchain and AI. **AREUSE** agency will typically keep a file for each employee noting their skills and work history. This helps Trust square to match job seekers experience and skills to their requirements. 
