@@ -48,8 +48,10 @@ The employer signs up for **AREUSE** when a position becomes available in their 
 # Our Vision 
 Our vision is to provide our employer clients and candidates with world class recruitment service focused on high quality, trust, efficiency and cost-effective. We aim to empower our job seekers to find the job they always dream of, develop relationships, and overall business together.
 
+<a name="ourservicemodel"></a>
 # Our Service Model
 
+<a name="As-Isprocess"></a>
 ## As-Is process: 
 
 The employee recruitment process of our company has two models:
@@ -70,7 +72,7 @@ The employee recruitment process of our company has two models:
 # Current Situation
 ![Current Manual Process bpmn 4](https://user-images.githubusercontent.com/55553886/70465427-3b0dec80-1ac1-11ea-84c1-8eb5e70e9829.png)
 
-
+<a name="To-beprocess"></a>
 # To-Be Process
 AREUSE to improve the job seeker experience and to have Job search more efficient, an AI assistance.i.e,chat bot communicate with the Candidate by text ,answers common questions and automates much of the communication through Integromat to extract text tags and email address of the Candidate to request  CV. Uploaded Candidate 's CV integromates with Rezscore for scoring based on their algorithm with a grading from A to F. Candidates with higher threshold are sent with the most appropriate jobs from our AREUSE database (google sheets) and sends all the relevant tests to evaluate the candidate technical and programming skills outlined in the resume with a timelapse of 24hours .The qualified candidates profile is sent to our client  for assessment and simultaneously request  for feedback from both the Client and Candidate and saved to our Areuse database (google sheets).
 
