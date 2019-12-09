@@ -2,9 +2,9 @@
 
 # Contents
 1. [Introduction](#introduction)
-    1. [About **AREUSE** ](#subparagrap1)
-    2. [Who are we?](#subparagraph2)
-    3. [Objective](#objective3)
+    1. [About **AREUSE** ](#aboutareuse1)
+    2. [Who are we?](#whoarewe2)
+    3. [Objective](#objective)
     4. [Our Mission](#ourmission)
     5. [Our Vision](#ourvision)
       
