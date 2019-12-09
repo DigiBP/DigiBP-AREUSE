@@ -20,7 +20,7 @@
 
 ![the Big Picture](https://github.com/DigiBP/DigiBP-AREUSE/blob/master/src/modelling/areuseGeneral.PNG)
 
-
+<a name="whoarewe"></a>
 # Who are we?
 We are trusted service providers offering two main types of services. One is directed at the job seeker and the other to an employer looking to hire new employees. **AREUSE** has a continuous reputation of matching candidates’ knowledge, proficiency, capability and qualification with specific job requirements in the field of Block chain and AI. We specialize in identifying talent in the labor market and making it available via Trust square to organizations that require skilled and talented people for various positions. **AREUSE** works as an intermediary in the hiring process by screening the candidate to find a suitable place of employment, where the candidate’s expertise and competence would benefit the company or position in question.
 
@@ -28,13 +28,13 @@ We are trusted service providers offering two main types of services. One is dir
 
 ![Webp net-](https://user-images.githubusercontent.com/55685771/68246986-336aac00-001a-11ea-919b-863a1663bc16.png)
 
-
+<a name="objective"></a>
 # Objective
 The main objectives of **AREUSE** is to match between Blockchain and AI job offers in Zurich and experienced talented programmers who are looking to dive into cutting edge technologies in a more convenient and effective way, where the primary screening of candidates is done by using the latest artificial Intelligence services. Our fully automated process matches candidates with job offers  through a conversation made between a candidate and our chatbox, along with an automated analysis of the candidate’s CV whom later is offered tests that matches the job opportunities and suits the candidate. 
 
 One of our hallmarks is the successful placement of suitable job candidates in the area of Blockchain and AI.
 
-
+<a name="ourmission"></a>
 # Our Mission 
 Make the difference for our client and the candidates. We place both in the center of everything we do. **AREUSE** is fully committed to their success and mutual benefit in every aspects of their challenge. We transform recruitment process with our leading-edge digital technology and process knowledge. 
 
@@ -44,7 +44,7 @@ The employer signs up for **AREUSE** when a position becomes available in their 
 ## Benefit for Employee
 **AREUSE** reduces stress for the candidates by avoiding tedious and time consuming recruitment process. **AREUSE** improves candidate’s experience and better job satisfaction by getting appropriate job and matching his/her skill set. More over it does not cost anything for the employees.
 
-
+<a name="ourvision"></a>
 # Our Vision 
 Our vision is to provide our employer clients and candidates with world class recruitment service focused on high quality, trust, efficiency and cost-effective. We aim to empower our job seekers to find the job they always dream of, develop relationships, and overall business together.
 
