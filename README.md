@@ -54,7 +54,7 @@ Our vision is to provide our employer clients and candidates with world class re
 # Our Service Model
 
 <a name="As-Isprocess"></a>
-##As-Is process: 
+## As-Is process: 
 
 The employee recruitment process of our company has two models:
 ###### 1. The steps in Job opening process model:
@@ -75,7 +75,7 @@ The employee recruitment process of our company has two models:
 ![Current Manual Process bpmn 4](https://user-images.githubusercontent.com/55553886/70465427-3b0dec80-1ac1-11ea-84c1-8eb5e70e9829.png)
 
 <a name="To-Beprocess"></a>
-##To-Be Process
+## To-Be Process
 AREUSE to improve the job seeker experience and to have Job search more efficient, an AI assistance.i.e,chat bot communicate with the Candidate by text ,answers common questions and automates much of the communication through Integromat to extract text tags and email address of the Candidate to request  CV. Uploaded Candidate 's CV integromates with Rezscore for scoring based on their algorithm with a grading from A to F. Candidates with higher threshold are sent with the most appropriate jobs from our AREUSE database (google sheets) and sends all the relevant tests to evaluate the candidate technical and programming skills outlined in the resume with a timelapse of 24hours .The qualified candidates profile is sent to our client  for assessment and simultaneously request  for feedback from both the Client and Candidate and saved to our Areuse database (google sheets).
 
 ###### The steps involved in the recruitment process:
