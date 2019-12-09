@@ -5,8 +5,8 @@
     1. [About **AREUSE** ](#about**areuse**)
     2. [Who are we?](#whoarewe?)
     3. [Objective](#objective)
-    4. [OurMission](#ourmission)
-    5. [OurVision](#ourvision)
+    4. [Our Mission](#ourMission)
+    5. [Our Vision](#ourvision)
       
 2. [Our Service Model](#ourservicemodel)
     1. [As-Is Process](#As-IsProcess)
