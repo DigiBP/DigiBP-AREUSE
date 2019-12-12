@@ -168,11 +168,21 @@ AREUSE to improve the job seeker experience and to have Job search more efficien
 
 | | | |
 |-|-|-|
-| __Element__  |Script Task |
+| __Element__  |Service Task |
 | __Name__  | Find most appropriate Job information |
 | __General description__  | a script task finds the most appropriate job from our AREUSE data store references |
 | __Input__  | updated google sheets with candidate information |
 | __Output__  | lists out the appropriate jobs |
+
+
+| | | |
+|-|-|-|
+| __Element__  |Message End Event |
+| __Name__  | Inform Candidate |
+| __General description__  | a message end event sends a message to inform the candidate which doesnot match the joblist |
+| __Input__  | Receives Candidates list who does not match to joblist in the database |
+| __Output__  | Sends a No matching job found message  |
+
 
 
 | | | |
