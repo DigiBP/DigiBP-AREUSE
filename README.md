@@ -91,7 +91,7 @@ AREUSE to improve the job seeker experience and to have Job search more efficien
 * Save the Feedback to the Database.
 
 # To-Be Situation
-![AreuseTobe](https://user-images.githubusercontent.com/21206324/69092376-8433c900-0a4c-11ea-89e6-c8f60c04adf7.png)
+![AreuseTobe](https://user-images.githubusercontent.com/21206324/70690442-f64ba680-1cb6-11ea-8659-c0113d547adf.png)
 
 | | | |
 |-|-|-|
