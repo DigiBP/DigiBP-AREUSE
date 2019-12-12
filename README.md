@@ -13,9 +13,9 @@
     2. [To-Be process](#To-Beprocess)
     
 <a name="introduction"></a>
-# Introduction   
-    
-<a name="about**areuse**"></a>
+# Introduction
+
+    <a name="about**areuse**"></a>
 # About AREUSE 
 **AREUSE** is a Swiss startup, with 3 co-founders, specialized in the human resources sector and information technology. 
 **AREUSE** aims to provide unique, simplified and convenient job offering and seeking process. Currently, **AREUSE** is providing professional candidates (Job Seekers) to Trust Square in Zurich, IT startup cluster in the area of Blockchain and AI. **AREUSE** agency will typically keep a file for each employee noting their skills and work history. This helps Trust square to match job seekers experience and skills to their requirements. 
@@ -76,6 +76,9 @@ The employee recruitment process of our company has two models:
 
 <a name="To-Beprocess"></a>
 ## To-Be Process
+
+![areuse](https://user-images.githubusercontent.com/55553886/70732851-7d296f00-1d09-11ea-8b31-5c28f14dbea2.png)
+
 AREUSE to improve the job seeker experience and to have Job search more efficient, an AI assistance i.e chat bot communicate with the Candidate by text, answers common questions and automates much of the communication through Integromat to extract text tags and email address of the Candidate to request  CV. Uploaded Candidate 's CV integromates with Rezscore for scoring based on their algorithm with a grading from A to F. Candidates with higher threshold are sent with the most appropriate jobs from our AREUSE database (google sheets) and sends all the relevant tests to evaluate the candidate technical and programming skills outlined in the resume with a timelapse of 24hours. The qualified candidates profile is sent to our client  for assessment and simultaneously request  for feedback from both the Client and Candidate and saved to our Areuse database (google sheets).
 
 ###### The steps involved in the recruitment process:
